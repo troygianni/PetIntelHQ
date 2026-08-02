@@ -2,74 +2,131 @@
 
 PetIntelHQ is an iOS application I'm building with SwiftUI to help pet owners keep everything about their pets organized in one place.
 
-After spending years working in veterinary medicine, I saw how difficult it can be to keep track of medical records, medications, vaccinations, appointment history, travel paperwork, and emergency information. PetIntelHQ is my attempt to solve that problem by giving pet owners one simple place to manage everything related to their pets.
+After spending years working in veterinary medicine, I saw firsthand how difficult it can be to keep track of medical records, medications, vaccinations, appointment history, travel paperwork, and emergency information. PetIntelHQ is my attempt to solve that problem by giving pet owners one simple place to manage everything related to their pets.
 
-This project combines my veterinary background with my passion for software development to solve a real-world problem.
+This project combines my veterinary background with my passion for software development and serves as my primary iOS portfolio project while I continue learning and expanding my iOS development skills.
 
 ## Features
 
-### Current
-
-- Guided onboarding experience
 - Create pet profiles
-- Pet name
-- Species
-- Breed
-- Birthday
-- Diet information
-- Allergy tracking
-- Medication tracking
-- Microchip information
-- Favorite things
-- Pet photos
-
-### Coming Soon
-
-- Vaccination records
-- Medical history
-- Appointment history
-- Weight tracking
-- Medication reminders
-- Push notifications
-- USDA travel document storage
-- Multiple pet support
-- Secure cloud backup
-- Veterinary clinic integration
+- Guided onboarding experience
+- Store pet information
+- Track medications
+- Store allergy information
+- Save microchip details
+- Record birthday or estimated age
+- Upload pet photos
+- Store food and nutrition information
+- Save favorite toys and treats
+- Built entirely with SwiftUI
 
 ## Built With
 
 - Swift
 - SwiftUI
 - Xcode
+- MVVM Principles
 - Git
 - GitHub
 
-## Why I Built PetIntelHQ
+## Application Screens
 
-Working as a veterinary technician gave me the opportunity to see firsthand how difficult it can be for pet owners to keep important information organized. Medical records are often spread across multiple clinics, medications can be difficult to track, and finding vaccine records or travel paperwork when they're needed can quickly become stressful.
+### Welcome
 
-I wanted to build an app that makes managing a pet's health simple, organized, and always accessible.
+<img src="PetIntelHQ/Screenshots/welcome.png" width="300">
 
-## Project Status
+### Pet Name
 
-PetIntelHQ is currently under active development.
+<img src="PetIntelHQ/Screenshots/pet-name.png" width="300">
 
-I'm continuously adding new features, improving the user experience, and learning more about iOS development with every update.
+### Species
+
+<img src="PetIntelHQ/Screenshots/species.png" width="300">
+
+### Breed
+
+<img src="PetIntelHQ/Screenshots/breed.png" width="300">
+
+### Birthday
+
+<img src="PetIntelHQ/Screenshots/birthday.png" width="300">
+
+### Upload Photo
+
+<img src="PetIntelHQ/Screenshots/petphoto.png" width="300">
+
+### Microchip Information
+
+<img src="PetIntelHQ/Screenshots/microchip.png" width="300">
+
+### Medications
+
+<img src="PetIntelHQ/Screenshots/medications.png" width="300">
+
+### Food Information
+
+<img src="PetIntelHQ/Screenshots/food.png" width="300">
+
+### Allergies
+
+<img src="PetIntelHQ/Screenshots/allergies.png" width="300">
+
+### Favorite Toy or Treat
+
+<img src="PetIntelHQ/Screenshots/toy-treat.png" width="300">
+
+## Live Demo
+
+A simulator walkthrough of the onboarding experience is included in this repository.
+
+Location:
+
+```
+PetIntelHQ/Live Demo/appsim.mov
+```
+
+You can also download the video directly from GitHub and watch the onboarding flow from start to finish.
+
+## Skills Demonstrated
+
+- SwiftUI User Interface Design
+- State Management
+- NavigationStack
+- Forms and User Input
+- Image Picker Integration
+- Data Modeling
+- Mobile UX Design
+- Git Version Control
+- GitHub Repository Management
+- iOS Application Architecture
 
 ## Roadmap
 
-- [x] Build onboarding flow
-- [x] Create pet profile setup
-- [x] Collect pet health information
-- [ ] Vaccination records
-- [ ] Medical history
-- [ ] Appointment tracking
-- [ ] Weight tracking
-- [ ] Cloud synchronization
-- [ ] Push notifications
-- [ ] Veterinary clinic integration
-- [ ] AI-powered pet insights
+Upcoming features include:
+
+- Vaccination tracking
+- Medical history timeline
+- Appointment reminders
+- Veterinary visit history
+- Medication reminders
+- Emergency contacts
+- USDA travel document storage
+- Health certificate management
+- Cloud synchronization
+- User authentication
+- Multiple pet support
+- Apple Watch support
+
+## Why I Built This
+
+As a veterinary professional for nearly ten years, I constantly watched pet owners struggle to remember medications, vaccine dates, microchip numbers, diets, allergies, and important medical history.
+
+Building software that solves real problems is what excites me most, and PetIntelHQ allows me to combine my healthcare experience with software engineering to create something that could genuinely improve the lives of pet owners.
 
 ## About Me
 
-I'm a developer with a background in veterinary medicine. My goal is to build technology that improves the experience for pet owners and veterinary professionals while continuing to grow my skills in iOS development, cloud technologies, and software engineering.
+I'm a recent Computer Science graduate with a background in veterinary medicine who enjoys building software that solves practical problems.
+
+My interests include iOS development, cloud computing, DevOps, and software engineering. I enjoy creating applications that bridge technology with real-world industries, especially veterinary medicine.
+
+I'm actively expanding PetIntelHQ while building additional Swift and cloud-based projects as I continue growing as a software engineer.
