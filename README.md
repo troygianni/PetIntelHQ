@@ -4,7 +4,7 @@ PetIntelHQ is an iOS application I'm building with SwiftUI to help pet owners ke
 
 After spending years working in veterinary medicine, I saw how difficult it can be to keep track of medical records, medications, vaccinations, appointment history, travel paperwork, and emergency information. PetIntelHQ is my attempt to solve that problem by giving pet owners one simple place to manage everything related to their pets.
 
-This project combines my veterinary background with my passion for development and serves as my primary iOS portfolio project while I continue learning and expanding my skills.
+This project combines my veterinary background with my passion for software development to solve a real-world problem.
 
 ## Features
 
